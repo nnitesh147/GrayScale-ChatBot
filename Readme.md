@@ -35,4 +35,5 @@ Follow these steps to run the project locally:
    npm run dev
    ```
 
-4. Open your browser and navigate to the provided local URL (usually `http://localhost:3000`).
+4. **View the live demo on Vercel**  
+   You can try the chatbot live at [https://gray-scale-chat-bot.vercel.app/](https://gray-scale-chat-bot.vercel.app/)
